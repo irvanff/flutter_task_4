@@ -1,4 +1,7 @@
 # flutter_task_4
+![home](https://user-images.githubusercontent.com/56348329/135322816-2f429548-5417-434a-a3bf-59de065a6ffa.jpeg)
+![splash](https://user-images.githubusercontent.com/56348329/135322824-83f0e0b6-6268-4f2c-808f-beae558cd394.jpeg)
+![detail](https://user-images.githubusercontent.com/56348329/135322830-7ce67f87-3778-4234-a137-0038cccd2ff1.jpeg)
 
 A new Flutter project.
 
